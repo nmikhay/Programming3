@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\bin\Debug\net7.0\DataAnaly6zer.exe
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\bin\Debug\net7.0\DataAnaly6zer.deps.json
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\bin\Debug\net7.0\DataAnaly6zer.runtimeconfig.json
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\bin\Debug\net7.0\DataAnaly6zer.dll
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\bin\Debug\net7.0\DataAnaly6zer.pdb
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.AssemblyInfo.cs
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.dll
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\refint\DataAnaly6zer.dll
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.pdb
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\DataAnaly6zer.genruntimeconfig.cache
+C:\Users\nadia\source\repos\DataAnaly6zer\DataAnaly6zer\obj\Debug\net7.0\ref\DataAnaly6zer.dll

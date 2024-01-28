@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.AssemblyInfo.cs
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\OrederProsessingSystem\bin\Debug\net7.0\OrederProsessingSystem.exe
+C:\Users\nadia\source\repos\OrederProsessingSystem\bin\Debug\net7.0\OrederProsessingSystem.deps.json
+C:\Users\nadia\source\repos\OrederProsessingSystem\bin\Debug\net7.0\OrederProsessingSystem.runtimeconfig.json
+C:\Users\nadia\source\repos\OrederProsessingSystem\bin\Debug\net7.0\OrederProsessingSystem.dll
+C:\Users\nadia\source\repos\OrederProsessingSystem\bin\Debug\net7.0\OrederProsessingSystem.pdb
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.dll
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\refint\OrederProsessingSystem.dll
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.pdb
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\OrederProsessingSystem.genruntimeconfig.cache
+C:\Users\nadia\source\repos\OrederProsessingSystem\obj\Debug\net7.0\ref\OrederProsessingSystem.dll

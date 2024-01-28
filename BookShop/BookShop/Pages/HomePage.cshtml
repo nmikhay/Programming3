@@ -1,0 +1,39 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Welcome to my BookShop";
+}
+
+<a asp-page="/Login" asp-route-returnUrl="/Login">Login as Admin</a>
+<a asp-page="/Login" asp-route-returnUrl="/Login">Login as Customer</a>
+<a asp-page="/Register">Register</a>
+
+<h1>Book List</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.Price</td>
+                <td><a asp-page="./BookDetailPage" asp-route-id="@book.Id">View Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+

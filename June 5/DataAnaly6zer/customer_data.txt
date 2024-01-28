@@ -1,0 +1,6 @@
+John Doe,1200.50
+Jane Smith,800.20
+Michael Johnson,1500.75
+Sara Thompson,300.00
+Adam Williams,2500.35
+Emily Davis,1800.90

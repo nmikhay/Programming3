@@ -1,0 +1,8 @@
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\bin\Debug\MedicalRecordAnalyzer.exe.config
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\bin\Debug\MedicalRecordAnalyzer.exe
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\bin\Debug\MedicalRecordAnalyzer.pdb
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\obj\Debug\MedicalRecordAnalyzer.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\obj\Debug\MedicalRecordAnalyzer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\obj\Debug\MedicalRecordAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\obj\Debug\MedicalRecordAnalyzer.exe
+C:\Users\nadia\source\repos\MedicalRecordAnalyzer\MedicalRecordAnalyzer\obj\Debug\MedicalRecordAnalyzer.pdb

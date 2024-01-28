@@ -1,0 +1,9 @@
+Medical Condition: Hypertension
+Average Age: 42.5
+
+Medical Condition: Diabetes
+Average Age: 40
+
+Medical Condition: Asthma
+Average Age: 45
+

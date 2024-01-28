@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "43Ij3XAqmxNNU722wORMJT4a95z8F7YUpZtopbFYVE8bI5+/2tTe9NQQqu88vXg5WhjqBlK19tettCOrJ0E73w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nadia\\source\\repos\\ProductInventory2\\ProductInventory2\\ProductInventory2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nadia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\nadia\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nadia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\nadia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\nadia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\nadia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

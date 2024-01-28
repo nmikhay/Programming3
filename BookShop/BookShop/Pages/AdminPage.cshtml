@@ -1,0 +1,36 @@
+﻿@page
+@model AdminPageModel
+@{
+    ViewData["Title"] = "Admin Page";
+}
+
+<h1>Welcome, Admin!</h1>
+
+<p><a asp-page="/AddBook/Index">Add Book</a></p>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td><a asp-page="/EditBook/Index" asp-route-id="@book.Id">Edit</a></td>
+                <td><a asp-page="/DeleteBook/Index" asp-route-id="@book.Id">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+

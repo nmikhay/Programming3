@@ -1,0 +1,21 @@
+﻿@page
+@model RegisterModel
+
+<h2>Register</h2>
+<form method="post">
+    <div>
+        <label for="Username">Username</label>
+        <input asp-for="AccountViewModel.Username" type="text" required />
+    </div>
+    <div>
+        <label for="Password">Password</label>
+        <input asp-for="AccountViewModel.Password" type="password" required />
+    </div>
+    <div>
+        <label for="Role">Role</label>
+        <input asp-for="AccountViewModel.Role" type="text" required />
+    </div>
+    <button type="submit">Register</button>
+</form>
+
+

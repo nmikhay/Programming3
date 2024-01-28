@@ -1,0 +1,16 @@
+Los Angeles Lakers,NBA,15
+Golden State Warriors,NBA,15
+Brooklyn Nets,NBA,14
+Miami Heat,NBA,16
+Chicago Bulls,NBA,15
+New York Knicks,NBA,14
+Liverpool,English Premier League,25
+Manchester United,English Premier League,24
+Arsenal,English Premier League,24
+Chelsea,English Premier League,25
+Manchester City,English Premier League,25
+Real Madrid,La Liga,24
+Barcelona,La Liga,25
+Atletico Madrid,La Liga,24
+Bayern Munich,Bundesliga,24
+Borussia Dortmund,Bundesliga,24

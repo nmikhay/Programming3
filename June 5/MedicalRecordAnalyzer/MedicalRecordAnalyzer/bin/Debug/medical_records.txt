@@ -1,0 +1,12 @@
+Patient Name: John Doe
+Age: 35
+Medical Condition: Hypertension
+Patient Name: Jane Smith
+Age: 40
+Medical Condition: Diabetes
+Patient Name: Bob Johnson
+Age: 50
+Medical Condition: Hypertension
+Patient Name: Alice Williams
+Age: 45
+Medical Condition: Asthma

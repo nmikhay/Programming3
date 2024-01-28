@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\bin\Debug\net7.0\Levenshtein.exe
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\bin\Debug\net7.0\Levenshtein.deps.json
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\bin\Debug\net7.0\Levenshtein.runtimeconfig.json
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\bin\Debug\net7.0\Levenshtein.dll
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\bin\Debug\net7.0\Levenshtein.pdb
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.AssemblyInfo.cs
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.dll
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\refint\Levenshtein.dll
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.pdb
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\Levenshtein.genruntimeconfig.cache
+C:\Users\nadia\source\repos\Levenshtein\Levenshtein\obj\Debug\net7.0\ref\Levenshtein.dll

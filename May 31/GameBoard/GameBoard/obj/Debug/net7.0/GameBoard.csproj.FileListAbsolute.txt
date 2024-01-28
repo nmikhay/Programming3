@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\GameBoard\GameBoard\bin\Debug\net7.0\GameBoard.exe
+C:\Users\nadia\source\repos\GameBoard\GameBoard\bin\Debug\net7.0\GameBoard.deps.json
+C:\Users\nadia\source\repos\GameBoard\GameBoard\bin\Debug\net7.0\GameBoard.runtimeconfig.json
+C:\Users\nadia\source\repos\GameBoard\GameBoard\bin\Debug\net7.0\GameBoard.dll
+C:\Users\nadia\source\repos\GameBoard\GameBoard\bin\Debug\net7.0\GameBoard.pdb
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.AssemblyInfo.cs
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.dll
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\refint\GameBoard.dll
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.pdb
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\GameBoard.genruntimeconfig.cache
+C:\Users\nadia\source\repos\GameBoard\GameBoard\obj\Debug\net7.0\ref\GameBoard.dll

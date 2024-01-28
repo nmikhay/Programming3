@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\Dice\Dice\bin\Debug\net7.0\Dice.exe
+C:\Users\nadia\source\repos\Dice\Dice\bin\Debug\net7.0\Dice.deps.json
+C:\Users\nadia\source\repos\Dice\Dice\bin\Debug\net7.0\Dice.runtimeconfig.json
+C:\Users\nadia\source\repos\Dice\Dice\bin\Debug\net7.0\Dice.dll
+C:\Users\nadia\source\repos\Dice\Dice\bin\Debug\net7.0\Dice.pdb
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.AssemblyInfo.cs
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.dll
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\refint\Dice.dll
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.pdb
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\Dice.genruntimeconfig.cache
+C:\Users\nadia\source\repos\Dice\Dice\obj\Debug\net7.0\ref\Dice.dll

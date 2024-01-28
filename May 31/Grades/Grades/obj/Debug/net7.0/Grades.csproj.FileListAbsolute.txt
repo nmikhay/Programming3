@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\Grades\Grades\bin\Debug\net7.0\Grades.exe
+C:\Users\nadia\source\repos\Grades\Grades\bin\Debug\net7.0\Grades.deps.json
+C:\Users\nadia\source\repos\Grades\Grades\bin\Debug\net7.0\Grades.runtimeconfig.json
+C:\Users\nadia\source\repos\Grades\Grades\bin\Debug\net7.0\Grades.dll
+C:\Users\nadia\source\repos\Grades\Grades\bin\Debug\net7.0\Grades.pdb
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.AssemblyInfo.cs
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.dll
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\refint\Grades.dll
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.pdb
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\Grades.genruntimeconfig.cache
+C:\Users\nadia\source\repos\Grades\Grades\obj\Debug\net7.0\ref\Grades.dll

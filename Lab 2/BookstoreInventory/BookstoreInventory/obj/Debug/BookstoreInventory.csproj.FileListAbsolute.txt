@@ -1,0 +1,17 @@
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\AddBookWindow.baml
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\DeleteBook.baml
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\EditBook.baml
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\MainWindow.baml
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\AddBookWindow.g.cs
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\DeleteBook.g.cs
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\EditBook.g.cs
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\MainWindow.g.cs
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\App.g.cs
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory_Content.g.cs
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory_MarkupCompile.cache
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.g.resources
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.Properties.Resources.resources
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csproj.GenerateResource.cache
+C:\Users\nadia\source\repos\Lab 2\BookstoreInventory\BookstoreInventory\obj\Debug\BookstoreInventory.csproj.CoreCompileInputs.cache

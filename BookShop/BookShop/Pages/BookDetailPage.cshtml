@@ -1,0 +1,12 @@
+﻿@page "{id}"
+@model BookShop.Pages.BookDetailPageModel
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h1>@Model.Book.Title</h1>
+<p>@Model.Book.Author</p>
+<p>@Model.Book.Price</p>
+<p>@Model.Book.ISBN</p>
+<p>@Model.Book.Synopsis</p>
+

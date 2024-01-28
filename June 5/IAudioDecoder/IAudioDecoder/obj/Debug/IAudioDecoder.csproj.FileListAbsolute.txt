@@ -1,0 +1,8 @@
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\bin\Debug\IAudioDecoder.exe.config
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\bin\Debug\IAudioDecoder.exe
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\bin\Debug\IAudioDecoder.pdb
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\obj\Debug\IAudioDecoder.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\obj\Debug\IAudioDecoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\obj\Debug\IAudioDecoder.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\obj\Debug\IAudioDecoder.exe
+C:\Users\nadia\source\repos\IAudioDecoder\IAudioDecoder\obj\Debug\IAudioDecoder.pdb

@@ -1,0 +1,8 @@
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\bin\Debug\SportsLeagues.exe.config
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\bin\Debug\SportsLeagues.exe
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\bin\Debug\SportsLeagues.pdb
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\obj\Debug\SportsLeagues.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\obj\Debug\SportsLeagues.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\obj\Debug\SportsLeagues.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\obj\Debug\SportsLeagues.exe
+C:\Users\nadia\source\repos\Lab 1\SportsLeagues\SportsLeagues\obj\Debug\SportsLeagues.pdb

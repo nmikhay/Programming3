@@ -1,0 +1,8 @@
+C:\Users\nadia\source\repos\MediaItem\MediaItem\bin\Debug\MediaItem.exe.config
+C:\Users\nadia\source\repos\MediaItem\MediaItem\bin\Debug\MediaItem.exe
+C:\Users\nadia\source\repos\MediaItem\MediaItem\bin\Debug\MediaItem.pdb
+C:\Users\nadia\source\repos\MediaItem\MediaItem\obj\Debug\MediaItem.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\MediaItem\MediaItem\obj\Debug\MediaItem.csproj.SuggestedBindingRedirects.cache
+C:\Users\nadia\source\repos\MediaItem\MediaItem\obj\Debug\MediaItem.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\MediaItem\MediaItem\obj\Debug\MediaItem.exe
+C:\Users\nadia\source\repos\MediaItem\MediaItem\obj\Debug\MediaItem.pdb

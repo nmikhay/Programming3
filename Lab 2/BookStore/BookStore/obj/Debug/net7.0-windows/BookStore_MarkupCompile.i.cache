@@ -1,0 +1,20 @@
+﻿BookStore
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\nadia\source\repos\Lab 2\BookStore\BookStore\obj\Debug\net7.0-windows\
+BookStore
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\nadia\source\repos\Lab 2\BookStore\BookStore\App.xaml
+3-1128263887
+
+7598225191
+1981827736222
+AddBookWindow.xaml;EditBookWindow.xaml;MainWindow.xaml;
+
+True
+

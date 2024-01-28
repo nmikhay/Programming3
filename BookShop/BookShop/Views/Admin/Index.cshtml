@@ -1,0 +1,37 @@
+﻿@model List<BookShop.Models.Book>
+
+<h2>Admin Page - Book List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Price</th>
+            <th>ISBN</th>
+            <th>Synopsis</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => book.Title)</td>
+                <td>@Html.DisplayFor(modelItem => book.Author)</td>
+                <td>@Html.DisplayFor(modelItem => book.Price)</td>
+                <td>@Html.DisplayFor(modelItem => book.ISBN)</td>
+                <td>@Html.DisplayFor(modelItem => book.Synopsis)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = book.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = book.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

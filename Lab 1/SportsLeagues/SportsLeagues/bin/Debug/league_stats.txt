@@ -1,0 +1,16 @@
+NBA,Los Angeles Lakers,62
+NBA,Golden State Warriors,62
+NBA,Brooklyn Nets,62
+NBA,Miami Heat,62
+NBA,Chicago Bulls,62
+NBA,New York Knicks,62
+English Premier League,Liverpool,83
+English Premier League,Manchester United,83
+English Premier League,Arsenal,83
+English Premier League,Chelsea,83
+English Premier League,Manchester City,83
+La Liga,Real Madrid,83
+La Liga,Barcelona,83
+La Liga,Atletico Madrid,83
+Bundesliga,Bayern Munich,83
+Bundesliga,Borussia Dortmund,83

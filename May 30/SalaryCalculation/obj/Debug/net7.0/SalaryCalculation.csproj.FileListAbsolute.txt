@@ -1,0 +1,15 @@
+C:\Users\nadia\source\repos\SalaryCalculation\bin\Debug\net7.0\SalaryCalculation.exe
+C:\Users\nadia\source\repos\SalaryCalculation\bin\Debug\net7.0\SalaryCalculation.deps.json
+C:\Users\nadia\source\repos\SalaryCalculation\bin\Debug\net7.0\SalaryCalculation.runtimeconfig.json
+C:\Users\nadia\source\repos\SalaryCalculation\bin\Debug\net7.0\SalaryCalculation.dll
+C:\Users\nadia\source\repos\SalaryCalculation\bin\Debug\net7.0\SalaryCalculation.pdb
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.AssemblyInfo.cs
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.dll
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\refint\SalaryCalculation.dll
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.pdb
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\SalaryCalculation.genruntimeconfig.cache
+C:\Users\nadia\source\repos\SalaryCalculation\obj\Debug\net7.0\ref\SalaryCalculation.dll

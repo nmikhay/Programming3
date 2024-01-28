@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAudioDecoder", "IAudioDecoder\IAudioDecoder.csproj", "{4DF0921F-04D1-4376-9647-2FE8EB0E382E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DF0921F-04D1-4376-9647-2FE8EB0E382E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF0921F-04D1-4376-9647-2FE8EB0E382E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF0921F-04D1-4376-9647-2FE8EB0E382E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF0921F-04D1-4376-9647-2FE8EB0E382E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88BD3F89-CEEE-4D81-9141-8E36CFD58795}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿@page
+@model BookShop.Pages.AddBook.IndexModel
+@{
+    ViewData["Title"] = "Add Book";
+}
+
+<h1>Add Book</h1>
+
+<form method="post">
+    <div>
+        <label asp-for="Book.Title">Title</label>
+        <input asp-for="Book.Title" />
+    </div>
+    <div>
+        <label asp-for="Book.Author">Author</label>
+        <input asp-for="Book.Author" />
+    </div>
+    <div>
+        <label asp-for="Book.Price">Price</label>
+        <input asp-for="Book.Price" />
+    </div>
+    <div>
+        <input type="submit" value="Add" />
+    </div>
+</form>
+
